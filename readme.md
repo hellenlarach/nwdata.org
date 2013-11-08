@@ -1,25 +1,8 @@
-# nwdata
+# [nwdata.org](http://nwdata.org)
 > directory of civic data resources in the pacific northwest
 
-## grunt-static-site usage:
-Initialize the git repository for the project:
-```
-git init
-```
+### This project is new! Help build this directory of tools & resources!
+You'll notice that not many resources are currently listed. [nwdata.org](http://nwdata.org) started on **November 7, 2013**, and we'll be building out the resources with the goal of having an awesome directory by the end of the year.
 
-Add and commit the files:
-```
-git add .
-git commit -m 'initial commit'
-```
-
-[Create a new repository on github](http://github.com/new)
-
-Make sure it has the same name you entered when you generated this project: nwdata
-
-Edit the project files to add your content.
-
-Deploy to GitHub Pages:
-```
-grunt deploy
-```
+### This project is open source!
+Contribute to nwdata.org by forking this repository. If you're not about to fork the repository and just want to suggest a data source, app, or other resource, you can currently [make that suggestion via our issues queue on GitHub](https://github.com/sethvincent/nwdata.org/issues).
